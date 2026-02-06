@@ -10,6 +10,14 @@ This project focuses on building an end-to-end machine learning classification s
 - Select the most robust and scalable model based on performance metrics
 
 ## 📊 Dataset
+The dataset used in this project is sourced from the Kaggle competition  
+**Playground Series – Season 6, Episode 2**.
+
+Due to Kaggle’s data usage policy, the dataset is not included in this repository.  
+Users can download the data directly from Kaggle using the link below:
+
+https://www.kaggle.com/competitions/playground-series-s6e2/data
+
 - Source: Kaggle – Heart Disease Dataset  
 - Records include medical attributes such as:
   - Age, Sex
